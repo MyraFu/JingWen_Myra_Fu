@@ -25,6 +25,8 @@
 
 - :dart: I'm actively looking for opportunities as a business analyst, data analyst 
 
+- Python Package(s) I created: [cipher](https://github.com/QMSS-G5072-2022/cipher_Fu_Jingwen.git)
+
 - :brain:	Skill(s): Python, R, Excel, MySQL
 
 - 📫 How to reach me **jf3483@columbia.edu**
