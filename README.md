@@ -13,8 +13,8 @@
 
 <p align="left"> <a href="https://twitter.com/ullberich" target="blank"><img src="https://img.shields.io/twitter/follow/ullberich?logo=twitter&style=for-the-badge" alt="ullberich" /></a> </p>
 
-- :school: I'm currently in Quantitative Methods in the Social Sciences at Columbia University in the City of New York  23'
-- :mortar_board: Graduated in Economics major at University of California, San Diego  21'
+- :school: I'm currently in Quantitative Methods in the Social Sciences at **Columbia University in the City of New York**  23'
+- :mortar_board: Graduated in Economics major at **University of California, San Diego**  21'
 - 🌱 I’m currently learning **Modern Data Structures, Data Analysis, Quantitative Theory and Methodology for the Social Sciences**
 - :page_with_curl:	planning to take **Natural Language Processing, Machine Learning, Data Science in Fin & Insurance...** next semester
 
