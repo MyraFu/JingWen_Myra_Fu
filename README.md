@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm JingWen(/Myra) Fu</h1>
 <h3 align="center">A QMSS student at Columbia University</h3>
 
+![image][/Users/jwfu/Desktop/github/JingWen_Myra_Fu/IM.png ]
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myrafu&label=Profile%20views&color=0e75b6&style=flat" alt="myrafu" /> </p>
 
