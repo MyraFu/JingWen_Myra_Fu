@@ -2,18 +2,32 @@
 <h1 align="center">Hi 👋, I'm JingWen(/Myra) Fu</h1>
 <h3 align="center">A QMSS student at Columbia University</h3>
 
-![image!](IM.png)
+<p align="center">
+  <img src="/QMSS.png" />
+</p>
 
+
+![image!](IM.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myrafu&label=Profile%20views&color=0e75b6&style=flat" alt="myrafu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ullberich" target="blank"><img src="https://img.shields.io/twitter/follow/ullberich?logo=twitter&style=for-the-badge" alt="ullberich" /></a> </p>
 
-- 🌱 I’m currently learning **Modern Data Structure, NLP, Data Analysis ...**
+- :school: I'm currently in Quantitative Methods in the Social Sciences at Columbia University in the City of New York  23'
+- :mortar_board: Graduated in Economics major at University of California, San Diego  21'
+- 🌱 I’m currently learning **Modern Data Structures, Data Analysis, Quantitative Theory and Methodology for the Social Sciences**
+- :page_with_curl:	planning to take **Natural Language Processing, Machine Learning, Data Science in Fin & Insurance...** next semester
 
 - 📫 How to reach me **jf3483@columbia.edu**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jingwen-fu-8498b1206/](https://www.linkedin.com/in/jingwen-fu-8498b1206/)
+
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
