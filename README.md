@@ -13,6 +13,8 @@
 
 <p align="left"> <a href="https://twitter.com/ullberich" target="blank"><img src="https://img.shields.io/twitter/follow/ullberich?logo=twitter&style=for-the-badge" alt="ullberich" /></a> </p>
 
+<h3 align="left">Things about me:</h3>
+
 - :school: I'm currently in Quantitative Methods in the Social Sciences at **Columbia University in the City of New York**  23'
 
 - :mortar_board: Graduated with Economics major at the **University of California, San Diego**  21'
@@ -33,6 +35,13 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jingwen-fu-8498b1206/](https://www.linkedin.com/in/jingwen-fu-8498b1206/)
 
+
+
+<h3 align="left">Python:</h3>
+
+![image!](python_exercise.png)
+
+In the Python exercises folder, I added projects about **writing functions, testing, class, web scraping, SQL query, dealing datasets...** in Python
 
 
 
